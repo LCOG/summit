@@ -29,7 +29,7 @@
         <div class="hero-subtext-placeholder col-3"></div>
         <div class="col">
           <div class="hero-subtext-header">Individually powerful. Better together. </div>
-          <div>Smaller government agencies sometimes struggle to find a good matches with typical corporate SaaS vendors. To match the great work our government partners do, we are creating <span class="text-bold">Public-Interest Software</span>. We maximize services, not profit. We do this by keeping things simple: our apps function independently from one another, they are delightful to use, and they do just one thing well. This is Oregonians making tools for Oregonians.</div>
+          <div>Smaller government agencies sometimes struggle to find good matches with typical corporate SaaS vendors. To match the great work our government partners do, we are creating <span class="text-bold">Public-Interest Software</span>. We maximize services, not profit. We do this by keeping things simple: our apps function independently from one another, they are delightful to use, and they do just one thing well. This is Oregonians making tools for Oregonians.</div>
         </div>
         <div class="hero-subtext-placeholder col-3"></div>
       </div>
